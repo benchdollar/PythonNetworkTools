@@ -1,1 +1,3 @@
-"== Python Network Tools" 
+= Python Network Tools
+
+A simple TCP server and client for easy network debugging.
